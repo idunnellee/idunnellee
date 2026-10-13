@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 #Обо мне
-#Мое имя - **Артем**
-#Моя фамилия - **Галиев**
-#Дата рождения - **12.07.2008**
+#Галиев Артем | @idunnelle
 #Родной город: - ***Уфа***
 #Немного но знаю:
 - C++
 - Python
 - Java (ван лав)
+  ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=idunnelle&layout=compact&theme=radical)
